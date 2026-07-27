@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /cv/
 author_profile: true
+published: false
 ---
 
 # Huan Xu

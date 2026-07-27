@@ -1,13 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Software"
-    url: /software/
   - title: "Writing"
     url: /writing/
-  - title: "CV"
-    url: /cv/
