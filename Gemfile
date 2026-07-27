@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Jekyll requires an IANA timezone database when building on Windows.
+gem 'tzinfo-data', platforms: [:mingw, :x64_mingw, :mswin]
